@@ -1,0 +1,29 @@
+.Container{
+display: flex;
+}
+
+.sidebar{
+ min-height: 800%;
+ 
+
+}
+
+.post-card{
+   margin: 20px 50px;
+}
+
+.hashtags{
+   margin: 5px;
+}
+
+.Liked-alert{
+   margin: 1px;
+}
+.Hf{
+   min-width: 87%;
+}
+
+.create-post{
+   margin: 40px;
+   min-width: 10px;
+}
